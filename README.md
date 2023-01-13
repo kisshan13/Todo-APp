@@ -9,7 +9,7 @@
 - Clone Repo:
 
 ```bash
-$ git clone https://github.com/kishcodes13/Todo-App
+$ git clone https://github.com/kisshan13/Todo-App
 ```
 
 - Go to project directory and install dependencies:
